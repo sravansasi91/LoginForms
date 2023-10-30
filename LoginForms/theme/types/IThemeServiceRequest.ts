@@ -1,0 +1,28 @@
+export type ThemeServiceRequest = {
+  icon: string;
+  icon1: string;
+  txt1: string;
+  closed: string;
+  open: string;
+  cancelled: string;
+  closedOpacity: string;
+  openOpacity: string;
+  cancelledOpacity: string;
+  white: string;
+  separator: string;
+  length: string;
+  locationtxt: string;
+  date: string;
+  comment: string;
+  black: string;
+  subTxt: string;
+  border: string;
+  inputbg: string;
+  placeholder: string;
+  gold1: string;
+  gold2: string;
+  txt2: string;
+  delete: string;
+  unread: string;
+  popupOuter: string;
+};

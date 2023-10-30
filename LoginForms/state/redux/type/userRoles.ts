@@ -1,0 +1,6 @@
+export const UserRoleSActionTypes = {
+    USER_ROLE: 'USER_ROLE',
+    USER_ROLE_LOADER: 'USER_ROLE_LOADER',
+    USER_ROLE_SUCCESS: 'USER_ROLE_SUCCESS',
+    USER_ROLE_ERROR: 'USER_ROLE_ERROR',
+  };

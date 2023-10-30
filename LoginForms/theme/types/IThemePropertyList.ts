@@ -1,0 +1,17 @@
+export type ThemePropertyList = {
+    thumbnail: string,
+    bottomSheetContent: string,
+    bottomSheetBg: string,
+    closeBtnBg: string,
+    closeBtnLabel: string,
+    searchBox: string,
+    radioBg: string,
+    transparent: string,
+    checkBg: string,
+    borderBottomColor: string,
+    heading: string,
+    border1: string,
+    documentIcon: string,
+    downloadContainer1: string,
+    documentBtn: string,
+}

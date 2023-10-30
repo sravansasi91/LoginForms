@@ -1,0 +1,6 @@
+export const DialCodeActionTypes = {
+    DIAL_CODE: "DIAL_CODE",
+    DIAL_CODE_LOADER: "DIAL_CODE_LOADER",
+    DIAL_CODE_SUCCESS: "DIAL_CODE_SUCCESS",
+    DIAL_CODE_ERROR: "DIAL_CODE_ERROR",
+};

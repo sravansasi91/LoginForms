@@ -1,0 +1,6 @@
+export const CountryActionTypes = {
+    COUNTRY: "COUNTRY",
+    COUNTRY_LOADER: "COUNTRY_LOADER",
+    COUNTRY_SUCCESS: "COUNTRY_SUCCESS",
+    COUNTRY_ERROR: "COUNTRY_ERROR",
+};
